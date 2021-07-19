@@ -13,5 +13,3 @@ cheee-jw의 하위 계정으로 사용하려는 목적이므로 새로운 프로
 Windows10 : jwchoi9456
 Ubuntu : cheee-jw
 MacBookAir : cheee-jw
-
-
